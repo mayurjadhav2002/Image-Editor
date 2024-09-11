@@ -3,3 +3,7 @@ node_modules
 .env
 .env.local
 .node_modules
+/dist
+out
+/package-lock.json
+package-lock.json
